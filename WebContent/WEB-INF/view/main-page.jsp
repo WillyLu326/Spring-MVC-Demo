@@ -10,5 +10,7 @@
 
 <h2> This is Home Page from main-page.jsp </h2>
 
+<a href="/spring-mvc-demo/showForm">Go to Form</a>
+
 </body>
 </html>
