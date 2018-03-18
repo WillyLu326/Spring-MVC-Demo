@@ -8,7 +8,7 @@
 </head>
 <body>
 
-	<h3>Hello ${param.name}; this is spring helllworld.jsp</h3>
+	<h3>Hello ${message}; this is spring helllworld.jsp</h3>
 
 </body>
 </html>
